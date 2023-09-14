@@ -2,6 +2,7 @@
 # Overview  
 
 This organization contains supporting code and data for electroweak physics projects involving UC Berkeley and collaborating groups.
+Current projects are related to understanding dark matter detection and muon to electron conversion experiments.
 
 # One body Density Matrices for Common Experimental Targets  
 
