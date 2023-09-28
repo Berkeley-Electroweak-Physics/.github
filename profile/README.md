@@ -22,7 +22,7 @@ formulation can be non-relativistic or relativistic (including the lower compone
 
 This project requires access to the [Elastic repository](https://github.com/Berkeley-Electroweak-Physics/Elastic) for one-body density matrices.
 
-# One body Density Matrices for Common Experimental Targets  
+# One-Body Density Matrices for Common Experimental Targets  
 
 We have computed one-body density matrices using BIGSTICK for many commonly used isotopes for
 dark matter and muon to electron conversion experiments.
