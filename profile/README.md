@@ -4,25 +4,28 @@
 This organization contains supporting code and data for electroweak physics projects involving UC Berkeley and collaborating groups.
 Current projects are related to understanding dark matter detection and muon to electron conversion experiments.
 
-<!--
-# Matching of BSM models to the Nucleon Level Effective Theory  
+# MuonBridge: Matching of BSM models to the Nucleon Level Effective Theory  
 
 This project requires access to additional repositories here  
-&nbsp;&nbsp; [Mu2E](https://github.com/Berkeley-Electroweak-Physics/Mu2e)  for computing $\mu\rightarrow e$ reaction rates and branching ratios.  
+&nbsp;&nbsp; [MuonConverter](https://github.com/Berkeley-Electroweak-Physics/MuonConverter) for connecting beyond standard model theories to the non-relativistic nucleon level effective theory in Mu2e_NRET.  
+&nbsp;&nbsp; [Mu2e_NRET](https://github.com/Berkeley-Electroweak-Physics/Mu2e_NRET)  for computing $\mu\rightarrow e$ reaction rates and branching ratios.  
 &nbsp;&nbsp; [Elastic repository](https://github.com/Berkeley-Electroweak-Physics/Elastic) for one-body density matrices.    
--->
 
-# A Nucleon Level Effective Theory for Muon to Electron Conversion  
+# MuonConverter: Connecting UV beyond Standard Model Theories to Nuclear matrix elements and rates  
+
+&nbsp;&nbsp; [MuonConverter](https://github.com/Berkeley-Electroweak-Physics/MuonConverter)  
+
+# Mu2e_NRET: A Nucleon Level Effective Theory for Muon to Electron Conversion  
 
 This project contains python and mathematica code for computing decay rates and branching
 ratios for muon to electron conversion experiments with different target isotopes.   The
 formulation can be non-relativistic or relativistic (including the lower components for the muon)
 
-[Mu2E](https://github.com/Berkeley-Electroweak-Physics/Mu2e)  
+[Mu2E](https://github.com/Berkeley-Electroweak-Physics/Mu2e_NRET)  
 
 This project requires access to the [Elastic repository](https://github.com/Berkeley-Electroweak-Physics/Elastic) for one-body density matrices.
 
-# One-Body Density Matrices for Common Experimental Targets  
+# Elastic: One-Body Density Matrices for Common Experimental Targets  
 
 We have computed one-body density matrices using BIGSTICK for many commonly used isotopes for
 dark matter and muon to electron conversion experiments.
