@@ -4,7 +4,7 @@
 This organization contains supporting code and data for electroweak physics projects involving UC Berkeley and collaborating groups.
 Current projects are related to understanding dark matter detection and muon to electron conversion experiments.
 
-# MuonBridge: Matching of BSM models to a Nucleon Level Effective Theory  
+# MuonBridge: Matching of BSM models to a Nucleon Level Effective Theory of $\mu \rightarrow e$ Conversion
 
 This project requires access to the following additional repositories.   An automated script in MuonBridge will clone and configure them with compatible versions.  
 &nbsp;&nbsp; [MuonConverter](https://github.com/Berkeley-Electroweak-Physics/MuonConverter) for connecting beyond standard model theories to the non-relativistic nucleon level effective theory in Mu2e_NRET.  
