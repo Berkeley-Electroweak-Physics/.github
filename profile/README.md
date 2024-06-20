@@ -6,6 +6,8 @@ Current projects are related to understanding dark matter detection and muon to 
 
 # MuonBridge: Matching of BSM models to a Nucleon Level Effective Theory of $\mu \rightarrow e$ Conversion
 
+Repository:  [MuonBridge](https://github.com/Berkeley-Electroweak-Physics/MuonBridge)  
+
 This project requires access to the following additional repositories.   An automated script in MuonBridge will clone and configure them with compatible versions.  
 &nbsp;&nbsp; [MuonConverter](https://github.com/Berkeley-Electroweak-Physics/MuonConverter) for connecting beyond standard model theories to the non-relativistic nucleon level effective theory in Mu2e_NRET.  
 &nbsp;&nbsp; [Mu2e_NRET](https://github.com/Berkeley-Electroweak-Physics/Mu2e_NRET)  for computing $\mu\rightarrow e$ reaction rates and branching ratios.  
